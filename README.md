@@ -1,4 +1,2 @@
-sa_repository
+Private Repository
 =============
-
-test예제
